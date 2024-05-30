@@ -41,35 +41,35 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-
+cgfhc
 # TypeScript v1 declaration files
 typings/
-
+fh
 # TypeScript cache
 *.tsbuildinfo
-
+cfh
 # Optional npm cache directory
 .npm
-
+cfh
 # Optional eslint cache
 .eslintcache
-
+cfh
 jn
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
-
+fch
 # Optional REPL history
 .node_repl_history
-
+cfh
 # Output of 'npm pack'
 *.tgz
-
+cfh
 # Yarn Integrity file
 .yarn-integrity
-
+cfh
 # dotenv environment variables file
 .env
 
