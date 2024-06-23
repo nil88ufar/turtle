@@ -11,6 +11,7 @@ fg
 # Diagnostic reports (https://nodejs.org/api/report.html)
 #n
 .n
+
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 gvhf
