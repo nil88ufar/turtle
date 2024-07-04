@@ -24,6 +24,7 @@ ty
 pids
 *.pid
 *.seed
+
 FHG
 *.pid.lock
 
