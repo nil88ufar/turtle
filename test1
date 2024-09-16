@@ -43,6 +43,7 @@ pids
 gi
 
 FHG
+
 *.pid.lock
 fghr
 fd
