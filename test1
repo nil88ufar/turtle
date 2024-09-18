@@ -124,6 +124,7 @@ gyi
 .cache
 iy
 # Next.js build output
+
 .next
 yi
 # Nuxt.js build / generate output
