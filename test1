@@ -115,6 +115,7 @@ jn
 fch
 # Optional REPL history
 .node_repl_history
+
 cfh
 # Output of 'npm pack'
 *.tgz
