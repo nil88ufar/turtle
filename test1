@@ -121,6 +121,7 @@ fch
 cfh
 # Output of 'npm pack'
 *.tgz
+
 cfh
 # Yarn Integrity file
 .yarn-integrity
